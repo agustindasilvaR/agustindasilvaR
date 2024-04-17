@@ -1,6 +1,6 @@
 <h2> i'm agustín, nice to meet u :) </h2>
 
-welcome to my little corner on github, hope we can build stuff together soon!
+welcome to my little corner on github, hope we can soon build stuff together!
 
 <a href="https://www.agustindasilva.me/">agustindasilva.me</a>
 

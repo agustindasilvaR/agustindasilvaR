@@ -1,3 +1,1 @@
-### Hi
-
-- you just found my personal corner in the vast worldwide web, welcome :) 
+<h2> i'm agustín, nice to meet u </h2>

@@ -1,5 +1,7 @@
 <h2> i'm agustín, nice to meet u :) </h2>
 
+welcome to my little corner on github, hope we can build stuff together soon!
+
 <a href="https://www.agustindasilva.me/">agustindasilva.me</a>
 
 <a href="https://twitter.com/aguchinn"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/aguchinnn?logo=twitter"></a>
